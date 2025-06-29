@@ -9,7 +9,6 @@ Um relógio digital simples e funcional desenvolvido com **HTML**, **CSS** e **J
 - Exibe a hora atual em tempo real
 - Atualização automática a cada segundo
 - Layout moderno e centralizado
-- Compatível com dispositivos móveis (responsivo)
 
 ---
 
